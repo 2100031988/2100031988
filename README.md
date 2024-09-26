@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2100031988&label=Profile%20views&color=0e75b6&style=flat" alt="2100031988" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2100031988" alt="2100031988" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/sabya_kumar77" target="blank"><img src="https://img.shields.io/twitter/follow/sabya_kumar77?logo=twitter&style=for-the-badge" alt="sabya_kumar77" /></a> </p>
 
 - 🔭 I’m currently working on **AI Lecture Face Swapper with Celebrity Faces**
@@ -23,6 +25,10 @@
 
 - ⚡ Fun fact **I like to flirt with someone with similar interest**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sabya_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sabya_kumar" height="30" width="40" /></a>
@@ -31,6 +37,7 @@
 <a href="https://stackoverflow.com/users/klu-2100031988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="klu-2100031988" height="30" width="40" /></a>
 <a href="https://kaggle.com/sabyasachikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sabyasachikumar" height="30" width="40" /></a>
 <a href="https://instagram.com/sabya_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabya_kumar" height="30" width="40" /></a>
+<a href="https://medium.com/@sabyasachikumar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sabyasachikumar2" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sabyasachik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sabyasachik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/klu_2100031988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="klu_2100031988" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sabyasachikumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sabyasachikumar" height="30" width="40" /></a>
