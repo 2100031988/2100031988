@@ -21,9 +21,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **AI Lecture Face Swapper with Celebrity Faces**
+- 🔭 I’m currently working on **Cancer Detection in Human Brain**
 
-- 🌱 I’m currently learning **React, Pandas, NumPy, PyTorch, TensorFlow, Kotlin, Mediapipe**
+- 🌱 I’m currently learning **React, TypeScript, C++, Web3**
 
 - 👯 I’m looking to collaborate on **Machine Learning and AI technologies** and as a contributor in **Hackathons**
 
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me: **sabyasachikumar2@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1FgIXutc_gybnGsjKlNfpX3ETSr6HhAGM/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1i7h6sJhOPnu7iYGmCDaL2a4IoIqwza3X/view?usp=sharing)
 
 - ⚡ Fun fact: **I love connecting with people who share similar interests!**
 
