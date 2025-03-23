@@ -21,7 +21,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Cancer Detection in Human Brain**
+- 🔭 I’m currently working on **Cancer Detection in Human Brain using advaced DeepLearning techniques**
 
 - 🌱 I’m currently learning **React, TypeScript, C++, Web3**
 
