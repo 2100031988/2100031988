@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabyasachi Kumar</h1>
-<h3 align="center">A Passionate Fullstack Developer and AI Enthusisatic from India</h3>
+<h3 align="center">A Passionate Fullstack Developer and AI Enthusisatic </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=2100031988&label=Profile%20views&color=0e75b6&style=flat" alt="2100031988" />
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me: **sabyasachikumar2@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1i7h6sJhOPnu7iYGmCDaL2a4IoIqwza3X/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1cwCtFit4lN3cPUkLJ9v966t7JAYQG2CM/view?usp=sharing)
 
 - ⚡ Fun fact: **I love connecting with people who share similar interests!**
 
