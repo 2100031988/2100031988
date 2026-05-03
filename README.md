@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff7ed?style=for-the-badge&logo=linkedin&logoColor=c4a882)](https://linkedin.com/in/sabyasachi-kumar-5a423b226)
 [![Instagram](https://img.shields.io/badge/Instagram-fff7ed?style=for-the-badge&logo=instagram&logoColor=c4a882)](https://www.instagram.com/sabya_kumar)
 [![Dev.to](https://img.shields.io/badge/Dev.to-fff7ed?style=for-the-badge&logo=devdotto&logoColor=c4a882)](https://dev.to/sabya_kumar)
-[![GFG](https://img.shields.io/badge/GeeksForGeeks-fff7ed?style=for-the-badge&logo=geeksforgeeks&logoColor=c4a882)](https://auth.geeksforgeeks.org/user/sabyasachikumar2)
+
 
 </div>
 
