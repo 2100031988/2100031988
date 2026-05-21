@@ -63,25 +63,3 @@
 ---
 
 
----
-
-```
-┌─────────────────────────────────────────┐
-  04 · GITHUB STATS
-└─────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<table border="0" cellspacing="10" cellpadding="10" width="100%">
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=2100031988&layout=compact&bg_color=fffaf5&border_color=fde8d0&title_color=ea580c&text_color=a08060" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=2100031988&background=fffaf5&border=fde8d0&ring=ea580c&fire=f97316&currStreakLabel=ea580c&sideLabels=a08060&dates=c4a882" />
-    </td>
-  </tr>
-</table>
-
-</div>
