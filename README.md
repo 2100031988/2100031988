@@ -87,19 +87,7 @@
 
 </div>
 
----
 
-```
-┌─────────────────────────────────────────┐
-  06 · ACTIVITY
-└─────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2100031988&theme=minimal&hide_border=true&bg_color=00000000&color=c4a882&line=ea580c&point=c2410c&area=true&area_color=ea580c" width="100%"/>
-
-</div>
 
 ---
 
