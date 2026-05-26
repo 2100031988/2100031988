@@ -73,8 +73,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=2100031988&show_icons=true&cache_seconds=7200&theme=shades-of-purple&border_radius=12&hide_border=true&bg_color=0d0d12&title_color=a371f7&icon_color=39d0c8&text_color=c9c2d1"/>
-&nbsp;
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=2100031988&layout=compact&cache_seconds=7200&theme=shades-of-purple&border_radius=12&hide_border=true&bg_color=0d0d12&title_color=a371f7&text_color=c9c2d1"/>
 
 <br/><br/>
