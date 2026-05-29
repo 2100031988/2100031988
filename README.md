@@ -77,9 +77,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=2100031988&theme=shades-of-purple&hide_border=true&cache_seconds=86400&background=0d0d12&ring=a371f7&fire=e6b04a&currStreakLabel=d2a8ff" width="60%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2100031988&theme=shades-of-purple&radius=12&hide_border=true&bg_color=0d0d12&color=d2a8ff&line=a371f7&point=39d0c8" width="100%"/>
 
 </div>
 
