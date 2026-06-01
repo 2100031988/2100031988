@@ -19,9 +19,9 @@
 └─────────────────────────────────────────┘
 ```
 
-> **Cancer Detection in Human Brain**
+> ** Exploring diffeerent Python Libraries **
 >
-> Currently working on cancer detection using deep learning techniques and neural networks that will help us understand about the human brain and its impact on patients.
+> Currently learning about numpy, pandas and matplot library in python to work on datasets, extract the model for evaluation and make predictions.
 
 ---
 
@@ -31,11 +31,10 @@
 └─────────────────────────────────────────┘
 ```
 
-- 🌱 &nbsp;Currently learning **Deep Learning**, **Neural Networks** & scalable backend systems
-- 👯 &nbsp;Looking to collaborate on **AI/ML** and **Full Stack** projects
-- 🤝 &nbsp;Seeking help with advanced **AI research** and **model deployment**
-- 🔭 &nbsp;Exploring **Web3** & decentralized systems
-- ⚡ &nbsp;I think in layers — literally
+- &nbsp;Currently learning **Deep Learning**, **Neural Networks** & **Machine Learning**
+- &nbsp;Looking to collaborate on **AI/ML** projects
+- &nbsp;Seeking help with advanced **AI research** and **model deployment**
+- &nbsp;Exploring **Web3** & decentralized systems
 
 ---
 
