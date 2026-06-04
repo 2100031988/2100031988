@@ -74,7 +74,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=2100031988&theme=shades-of-purple&hide_border=true&cache_seconds=86400&background=0d0d12&ring=a371f7&fire=e6b04a&currStreakLabel=d2a8ff" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2100031988&theme=shades-of-purple&hide_border=true&background=0d0d12&ring=a371f7&fire=e6b04a&currStreakLabel=d2a8ff" width="60%"/>
 
 
 </div>
