@@ -105,7 +105,7 @@
 
 <div align="left">
 
-[![Portfolio](https://img.shields.io/badge/💼_Portfolio-ea580c?style=for-the-badge&labelColor=fff7ed)](https://2100031988.github.io/Portfolio/) &nbsp;&nbsp; [![Resume](https://img.shields.io/badge/📄_Resume-ea580c?style=for-the-badge&labelColor=fff7ed)](https://drive.google.com/file/d/1GtjLEAzC6dYNUANRFolzyzfYw7KYWohC/view?usp=sharing) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/📫_Email-c2410c?style=for-the-badge&labelColor=fff7ed)](mailto:sabyasachikumar2@gmail.com) &nbsp;&nbsp; [![Support](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-d97706?style=for-the-badge&labelColor=fff7ed)](https://www.buymeacoffee.com/sabya_kumar)
+[![Email](https://img.shields.io/badge/📫_Email-c2410c?style=for-the-badge&labelColor=fff7ed)](mailto:sabyasachikumar2@gmail.com) &nbsp;&nbsp; [![Support](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-d97706?style=for-the-badge&labelColor=fff7ed)](https://www.buymeacoffee.com/sabya_kumar)
 
 </div>
 
